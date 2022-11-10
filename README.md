@@ -14,3 +14,5 @@ Funções de atenção usadas no JS: </br>
 - setInterval: "definir intervalo" </br> 
 
 Para mais dúvidas sobre o projeto, assista meu vídeo no Youtube: @Prodigiodev
+
+![Screenshot_22](https://user-images.githubusercontent.com/110064892/201082592-43011993-4367-4f0e-8a08-3ca268a73895.png)
