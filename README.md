@@ -7,7 +7,7 @@ Funções de atenção usadas no Css: </br>
 - position: relative; "Respeita a delimitação da área usada." </br> 
 - position: absolute; "Respeita os outros elementos, assim não interferindo neles." </br> 
 - overflow: hidden; "Faz com que tudo que saia do quadrado, suma." </br> 
-@keyframes "Função para criar animações" </br> 
+- @keyframes "Função para criar animações" </br> 
 
 Funções de atenção usadas no JS: </br> 
 - setTimeout: "definir tempo limite" </br> 
